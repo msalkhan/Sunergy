@@ -1,0 +1,6 @@
+{
+  "name": "Sunergy Solar Energy Systems",
+  "description": "Official website and interactive solar quote platform for Sunergy Solar in Port St. Lucie, FL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
